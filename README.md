@@ -2,7 +2,7 @@
 
 The classic way to show data relatioships usually using the 'in-place' style. This project eplores whether 'detachement' way will be better to raise the awareness of data relationships when presenting visualziations.
 
-Two way to select bars:
+Two ways to select bars:
 1. click individual bar to select
 2. using brushing tool to select
 
